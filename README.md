@@ -1,13 +1,12 @@
 ### Hi there 👋, my name is Musfiq R. Rabby
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://i.ibb.co/zx8FhVK/rear-view-programmer-working-all-night-long-1.jpg)
 
 I am a web developer, here I present my work beautifully, do new work and learn
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Programming Shikbo 
-- 🌱 I’m currently learning Javascript 
+- 🔭 I’m currently working on Programming Hero Student
 - 📫 How to reach me: musfiqrabby69@gmail.com 
 - ⚡ Fun fact: I think I am funny  
 
