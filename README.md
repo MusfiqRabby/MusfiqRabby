@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Musfiq R. Rabby
+### Hi there 👋, me Musfiq R. Rabby
 #### Web Developer
 ![Web Developer](https://i.ibb.co/zx8FhVK/rear-view-programmer-working-all-night-long-1.jpg)
 
