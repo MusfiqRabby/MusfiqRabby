@@ -4,7 +4,7 @@
 
 I am a web developer, here I present my work beautifully, do new work and learn
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  JAVASCRIPT / REACT / TAILWIND / HTML / CSS / EXPRESS JS / NODE JS / MONGODB / FIREBASE /
 
 - 🔭 I’m currently working on Programming Hero Student
 - 📫 How to reach me: musfiqrabby69@gmail.com 
